@@ -1,0 +1,9 @@
+Package: com.eliofeghali.ynp
+Name: youtube no panel
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Elio Feghali
+Author: Elio Feghali
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
